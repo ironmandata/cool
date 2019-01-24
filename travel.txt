@@ -5,3 +5,5 @@ Packing list
 - picnic
 - bread
 - napkins
+
+- camera
